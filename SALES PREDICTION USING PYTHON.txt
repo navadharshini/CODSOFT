@@ -209,7 +209,7 @@ array([7.14382225])
 plt.plot(res)
 [<matplotlib.lines.Line2D at 0x1893d9a7290>]
 
-Y
+
 plt.scatter(X_test,Y_test)
 plt.plot(X_test,7.1432225 + 0.05473199* X_test,'r')
 plt.show()
